@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Discount2 {
+class Discount3 {
 	public static void main(String args[]) {
 		int unit = 100;
 		System.out.println("enter the quantity");
